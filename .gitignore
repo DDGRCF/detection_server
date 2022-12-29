@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# me
+resources
+build
+.cache
+.vscode
+.my_exps
+tags
+log
